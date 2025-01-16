@@ -1,0 +1,8 @@
+yfinance
+groq
+phidata
+python-dotenv
+duckduckgo-search
+crewai==0.22.5
+crewai[tools]
+langchain_community

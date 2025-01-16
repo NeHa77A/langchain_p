@@ -1,0 +1,16 @@
+# Create .gitignore file for Python virtual environment
+venv/
+env/
+.env
+*.pyc
+__pycache__/
+.python-version
+pip-log.txt
+
+# IDE specific files (optional but recommended)
+.vscode/
+.idea/
+
+# Environment variables
+.env.local
+.env.*.local
